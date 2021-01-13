@@ -1,4 +1,4 @@
-#Usage
+# Usage
 1. Create certificate (use some pass phrase)
    ```
    docker-compose run --rm openvpn ovpn_genconfig -u udp://{vpn_server_address}
